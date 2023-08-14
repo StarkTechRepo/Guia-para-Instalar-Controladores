@@ -8,6 +8,16 @@
 
 `Explora, instala y relájate. ¡La magia de los controladores está a solo un clic de distancia! 🚀`
 
+## ¿Cómo Saber Si Tengo Controladores Desactualizados o Faltantes?
+
+Asegurarte de tener controladores actualizados es esencial para mantener un rendimiento óptimo de tu sistema. Aquí te mostramos cómo identificar si tienes controladores desactualizados o faltantes:
+
+###  Administrador de Dispositivos
+
+- Presiona las teclas Win + X en tu teclado y selecciona "Administrador de Dispositivos".
+- Busca cualquier dispositivo con un ícono de triángulo amarillo, lo que indica un problema.
+- Haz clic derecho en el dispositivo y selecciona "Actualizar controlador" para buscar actualizaciones automáticamente.
+
 ## Cómo Obtener el ID de Hardware de un Dispositivo en Windows
 
 **Paso 1:** Abrir el Administrador de Dispositivos
