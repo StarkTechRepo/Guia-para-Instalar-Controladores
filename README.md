@@ -91,7 +91,7 @@ Recuerda que es crucial realizar primero la instalación desde el sitio web del 
    - El script obtendrá automáticamente la ubicación del archivo .bat y usará esta ubicación como la carpeta de controladores.
    - Los controladores detectados en la carpeta se instalarán automáticamente.
 
-## Recomendación de Herramienta: DriverEasy 🚀
+## Recomendación de Herramienta: 🪄 Esta herramienta es especialmente ideal para los que quieren las cosas hechas sin tener que mover un dedo. 
 
 Si prefieres una solución más sencilla y automatizada, te recomendamos utilizar la herramienta [DriverEasy](https://www.drivereasy.com/). DriverEasy puede escanear, descargar e instalar automáticamente los controladores necesarios para tu sistema. Sin embargo, ten en cuenta que, aunque es una opción conveniente, no garantiza la total seguridad y podría generar problemas en algunos casos.
 
