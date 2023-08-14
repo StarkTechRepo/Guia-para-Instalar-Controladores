@@ -70,6 +70,27 @@ Recuerda que es crucial realizar primero la instalación desde el sitio web del 
 
 **Nota:** Si en la página del fabricante no encuentras los controladores o no aparece tu modelo de dispositivo, puedes utilizar el método de obtener el ID de hardware y buscar controladores en el sitio web [https://driverpack.io/es/catalog](https://driverpack.io/es/catalog). Sin embargo, siempre es preferible descargar los controladores directamente desde los sitios web oficiales de los fabricantes para garantizar la compatibilidad y la seguridad de tu sistema.
 
+# Automatización de la Instalación de Controladores con el Asistente de Actualización de Hardware de Windows
+
+## Instrucciones de Uso
+
+1. **Descarga los archivos .bat**
+
+   - Descarga los archivos .bat desde este repositorio a tu computadora.
+
+2. **Método 1: Ingreso Manual de Ruta**
+
+   - Ejecuta el archivo `InstalarControladores.bat`.
+   - Sigue las instrucciones en pantalla:
+     - Ingresa la ruta de la carpeta donde descomprimiste los controladores.
+     - El script instalará automáticamente los controladores detectados en la carpeta especificada.
+
+3. **Método 2: Detección Automática de Ruta**
+
+   - Ejecuta el archivo `InstalarControladoresAuto.bat`.
+   - El script obtendrá automáticamente la ubicación del archivo .bat y usará esta ubicación como la carpeta de controladores.
+   - Los controladores detectados en la carpeta se instalarán automáticamente.
+
 ## Lista de Algunos Fabricantes Comunes
 
 1. **Controladores de AMD**: [Descargar controladores de AMD](https://www.amd.com/es/support)
