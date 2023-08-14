@@ -71,7 +71,7 @@ Recuerda que es crucial realizar primero la instalación desde el sitio web del 
 **Nota:** Si en la página del fabricante no encuentras los controladores o no aparece tu modelo de dispositivo, puedes utilizar el método de obtener el ID de hardware y buscar controladores en el sitio web [https://driverpack.io/es/catalog](https://driverpack.io/es/catalog). Sin embargo, siempre es preferible descargar los controladores directamente desde los sitios web oficiales de los fabricantes para garantizar la compatibilidad y la seguridad de tu sistema.
 
 # Automatización de la Instalación de Controladores con el Asistente de Actualización de Hardware de Windows
-🪄 Esta herramienta es especialmente ideal para los que quieren las cosas hechas sin tener que mover un dedo. 
+`🪄 Esta herramienta es especialmente ideal para los que quieren las cosas hechas sin tener que mover un dedo. `
 
 ## Instrucciones de Uso
 
@@ -93,6 +93,7 @@ Recuerda que es crucial realizar primero la instalación desde el sitio web del 
    - Los controladores detectados en la carpeta se instalarán automáticamente.
 
 ## Recomendación de Herramienta: 
+`🪄 Esta herramienta es especialmente ideal para los que quieren las cosas hechas sin tener que mover un dedo. `
 
 Si prefieres una solución más sencilla y automatizada, te recomendamos utilizar la herramienta [DriverEasy](https://www.drivereasy.com/). DriverEasy puede escanear, descargar e instalar automáticamente los controladores necesarios para tu sistema. Sin embargo, ten en cuenta que, aunque es una opción conveniente, no garantiza la total seguridad y podría generar problemas en algunos casos.
 
