@@ -51,6 +51,17 @@
 2. Abre CPU-Z y ve a la pestaña "Mainboard" (Placa base).
 3. Anota el "Model" (Modelo) de tu placa base.
 
+## Otra Forma de Instalar Controladores Correctamente
+
+Una alternativa adicional para instalar controladores de manera segura es seguir estos pasos:
+
+1. Descarga los controladores necesarios directamente desde el sitio web oficial del fabricante de tu dispositivo.
+2. Instala los controladores descargados siguiendo las instrucciones proporcionadas por el fabricante.
+3. Luego de instalar los controladores del fabricante, puedes utilizar Windows Update para buscar actualizaciones adicionales de controladores.
+4. Ve a "Configuración" > "Actualización y seguridad" > "Windows Update" y selecciona "Buscar actualizaciones".
+
+Recuerda que es crucial realizar primero la instalación desde el sitio web del fabricante para asegurarte de obtener los controladores más adecuados para tu hardware y sistema operativo. Posteriormente, utilizar Windows Update te permitirá obtener actualizaciones adicionales que puedan mejorar aún más el rendimiento y la compatibilidad de tu sistema.
+
 ## Importante
 
 **No descargues ni actualices automáticamente controladores utilizando herramientas de terceros.** Las bases de datos de estas herramientas no siempre están actualizadas y pueden instalar controladores incorrectos que afectan negativamente al rendimiento y estabilidad de tu PC. Es preferible buscar la opción para descargar el archivo ZIP del controlador directamente desde el sitio web del fabricante, donde encontrarás las versiones más recientes y compatibles con tu hardware y sistema operativo.
