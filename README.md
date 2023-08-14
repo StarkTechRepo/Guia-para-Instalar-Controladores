@@ -2,8 +2,6 @@
 
 ![Controladores](imagen_controladores.jpg)
 
-## Descripcion 🧙‍♂️
-
 `¡Bienvenidos al mundo de los controladores sin complicaciones! 🪄 Este repositorio es como tu asistente personal para instalar controladores. ¿Quieres que todo suceda automáticamente? ¡Este es el lugar perfecto! `
 
 `🪄 Esta herramienta es especialmente ideal para aquellos que quieren que todo se haga sin mover un dedo. `
