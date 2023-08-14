@@ -33,7 +33,7 @@
 ## Cómo Descargar, Descomprimir 
 
 1. En la página de [https://driverpack.io/es/catalog](https://driverpack.io/es/catalog)., busca y descarga los controladores necesarios para tu sistema operativo.
-2. Navega hasta la ubicación donde descargaste el archivo ZIP y descomprímelo. Puedes hacer clic derecho en el archivo ZIP y seleccionar "Extraer aquí" o usar un programa de descompresión como WinRAR o 7-Zip.
+2. Navega hasta la ubicación donde descargaste el archivo ZIP y descomprímelo. Puedes hacer clic derecho en el archivo ZIP y seleccionar "Extraer aquí" o usar un programa de descompresión como [WinRAR](https://www.win-rar.com/start.html?&L=0) o [7-Zip](https://www.7-zip.org/)p.
 
 ## Cómo Instalar Controladores Utilizando el Asistente de Actualización de Hardware de Windows
 
