@@ -83,8 +83,4 @@
 
 Este proyecto está bajo la licencia [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). Puedes compartir, adaptar y utilizar estos archivos siempre que des el crédito correspondiente al autor original.
 
-## Nota
-
-Este repositorio se ha creado con el propósito de proporcionar enlaces directos a los sitios web oficiales de los fabricantes de hardware para que puedas obtener los controladores más recientes para tu sistema. Asegúrate siempre de descargar los controladores compatibles con tu modelo de hardware y sistema operativo para evitar problemas de compatibilidad.
-
 Si tienes alguna pregunta o necesitas ayuda para encontrar un controlador específico, no dudes en preguntar.
