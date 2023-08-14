@@ -91,6 +91,10 @@ Recuerda que es crucial realizar primero la instalación desde el sitio web del 
    - El script obtendrá automáticamente la ubicación del archivo .bat y usará esta ubicación como la carpeta de controladores.
    - Los controladores detectados en la carpeta se instalarán automáticamente.
 
+## Recomendación de Herramienta: DriverEasy
+
+Si prefieres una solución más sencilla y automatizada, te recomendamos utilizar la herramienta [DriverEasy](https://www.drivereasy.com/). DriverEasy es una aplicación confiable que puede escanear, descargar e instalar automáticamente los controladores necesarios para tu sistema.
+
 ## Lista de Algunos Fabricantes Comunes
 
 1. **Controladores de AMD**: [Descargar controladores de AMD](https://www.amd.com/es/support)
