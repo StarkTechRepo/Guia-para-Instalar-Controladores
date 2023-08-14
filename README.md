@@ -18,7 +18,7 @@ Asegurarte de tener controladores actualizados es esencial para mantener un rend
 - Busca cualquier dispositivo con un ícono de triángulo amarillo, lo que indica un problema.
 - Haz clic derecho en el dispositivo y selecciona "Actualizar controlador" para buscar actualizaciones automáticamente.
 
-## Cómo Obtener el ID de Hardware de un Dispositivo en Windows
+## ¿Cómo Obtener el ID de Hardware de un Dispositivo en Windows?
 
 **Paso 1:** Abrir el Administrador de Dispositivos
 
@@ -40,18 +40,18 @@ Asegurarte de tener controladores actualizados es esencial para mantener un rend
 - Haz clic en un código de ID para resaltarlo.
 - Haz clic derecho y selecciona "Copiar".
 
-## Cómo Colocar el ID de Hardware en la Página de Descarga de Controladores
+## ¿Cómo Colocar el ID de Hardware en la Página de Descarga de Controladores?
 
 1. Abre tu navegador web y visita [https://driverpack.io/es/catalog](https://driverpack.io/es/catalog).
 2. En la barra de búsqueda del sitio web, pega el ID de hardware copiado  (por ejemplo: "IDHardware").
 3. Explora los resultados de búsqueda y navega a la página de descarga de controladores correspondiente.
 
-## Cómo Descargar, Descomprimir 
+## ¿Cómo Descargar, Descomprimir?
 
 1. En la página de [https://driverpack.io/es/catalog](https://driverpack.io/es/catalog)., busca y descarga los controladores necesarios para tu sistema operativo.
 2. Navega hasta la ubicación donde descargaste el archivo ZIP y descomprímelo. Puedes hacer clic derecho en el archivo ZIP y seleccionar "Extraer aquí" o usar un programa de descompresión como [WinRAR](https://www.win-rar.com/start.html?&L=0) o [7-Zip](https://www.7-zip.org/).
 
-## Cómo Instalar Controladores Utilizando el Asistente de Actualización de Hardware de Windows
+## ¿Cómo Instalar Controladores Utilizando el Asistente de Actualización de Hardware de Windows?
 
 1. Presiona Win + X y selecciona "Administrador de Dispositivos".
 2. Encuentra el dispositivo para el cual deseas instalar el controlador. Debe estar etiquetado con un triángulo amarillo (indicando que no tiene un controlador instalado).
@@ -61,7 +61,7 @@ Asegurarte de tener controladores actualizados es esencial para mantener un rend
 6. Haz clic en "Examinar" y navega a la ubicación donde descomprimiste los controladores.
 7. Selecciona la carpeta que contiene los archivos de controlador descomprimidos y haz clic en "Aceptar".
 
-## Cómo Obtener el Modelo de la Placa Base con CPU-Z
+## ¿Cómo Obtener el Modelo de la Placa Base con CPU-Z?
 
 1. Descarga e instala CPU-Z desde [https://www.cpuid.com/softwares/cpu-z.html](https://www.cpuid.com/softwares/cpu-z.html).
 2. Abre CPU-Z y ve a la pestaña "Mainboard" (Placa base).
