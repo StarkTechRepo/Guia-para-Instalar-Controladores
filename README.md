@@ -4,11 +4,11 @@
 
 ## Descripcion 🧙‍♂️
 
-`¡Bienvenidos al mundo de los controladores sin complicaciones! 🪄 Este repositorio es como tu asistente personal para instalar controladores. ¿Quieres que todo suceda automáticamente? ¡Este es el lugar perfecto! 
+`¡Bienvenidos al mundo de los controladores sin complicaciones! 🪄 Este repositorio es como tu asistente personal para instalar controladores. ¿Quieres que todo suceda automáticamente? ¡Este es el lugar perfecto! `
 
-🪄 Esta herramienta es especialmente ideal para aquellos que quieren que todo se haga sin mover un dedo. 
+`🪄 Esta herramienta es especialmente ideal para aquellos que quieren que todo se haga sin mover un dedo. `
 
-Explora, instala y relájate. ¡La magia de los controladores está a solo un clic de distancia! 🚀`
+`Explora, instala y relájate. ¡La magia de los controladores está a solo un clic de distancia! 🚀`
 
 ## Cómo Obtener el ID de Hardware de un Dispositivo en Windows
 
