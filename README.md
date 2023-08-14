@@ -53,7 +53,7 @@
 
 ## Importante
 
-**No descargues ni actualices automáticamente controladores utilizando herramientas de terceros.** Busca la opción para descargar el archivo ZIP del controlador desde el sitio web del fabricante.
+**No descargues ni actualices automáticamente controladores utilizando herramientas de terceros.** Las bases de datos de estas herramientas no siempre están actualizadas y pueden instalar controladores incorrectos que afectan negativamente al rendimiento y estabilidad de tu PC. Es preferible buscar la opción para descargar el archivo ZIP del controlador directamente desde el sitio web del fabricante, donde encontrarás las versiones más recientes y compatibles con tu hardware y sistema operativo.
 
 **Nota:** Si en la página del fabricante no encuentras los controladores o no aparece tu modelo de dispositivo, puedes utilizar el método de obtener el ID de hardware y buscar controladores en el sitio web [https://driverpack.io/es/catalog](https://driverpack.io/es/catalog). Sin embargo, siempre es preferible descargar los controladores directamente desde los sitios web oficiales de los fabricantes para garantizar la compatibilidad y la seguridad de tu sistema.
 
