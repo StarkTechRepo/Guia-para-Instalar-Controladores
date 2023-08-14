@@ -27,7 +27,7 @@
 ## Cómo Colocar el ID de Hardware en la Página de Descarga de Controladores
 
 1. Abre tu navegador web y visita [https://driverpack.io/es/catalog](https://driverpack.io/es/catalog).
-2. En la barra de búsqueda del sitio web, pega el ID de hardware copiado seguido de la palabra "drivers" (por ejemplo: "IDHardware drivers").
+2. En la barra de búsqueda del sitio web, pega el ID de hardware copiado  (por ejemplo: "IDHardware").
 3. Explora los resultados de búsqueda y navega a la página de descarga de controladores correspondiente.
 
 ## Cómo Descargar, Descomprimir 
