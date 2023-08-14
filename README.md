@@ -12,7 +12,7 @@
 
 Asegurarte de tener controladores actualizados es esencial para mantener un rendimiento óptimo de tu sistema. Aquí te mostramos cómo identificar si tienes controladores desactualizados o faltantes:
 
-###  Administrador de Dispositivos
+**  Administrador de Dispositivos
 
 - Presiona las teclas Win + X en tu teclado y selecciona "Administrador de Dispositivos".
 - Busca cualquier dispositivo con un ícono de triángulo amarillo, lo que indica un problema.
