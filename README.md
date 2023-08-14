@@ -51,6 +51,8 @@
 2. Abre CPU-Z y ve a la pestaña "Mainboard" (Placa base).
 3. Anota el "Model" (Modelo) de tu placa base.
 
+Luego, utiliza el modelo anotado y agrégalo al buscador de tu elección junto con la palabra "drivers". Por ejemplo, si tu modelo de placa base es "ABC123", busca "ABC123 drivers". Esto te llevará directamente al sitio web del fabricante donde podrás descargar los controladores más recientes y compatibles para tu placa base.
+
 ## Otra Forma de Instalar Controladores Correctamente
 
 Una alternativa adicional para instalar controladores de manera segura es seguir estos pasos:
