@@ -144,3 +144,6 @@ Si prefieres una solución más sencilla y automatizada, te recomendamos utiliza
 Este proyecto está bajo la licencia [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). Puedes compartir, adaptar y utilizar estos archivos siempre que des el crédito correspondiente al autor original.
 
 Si tienes alguna pregunta o necesitas ayuda para encontrar un controlador específico, no dudes en preguntar.
+
+### Nota importante
+Se recomienda encarecidamente hacer una copia de seguridad de los datos importantes antes de continuar. El autor no se hace responsable de ningún daño o problema causado por el uso de estos comandos.
