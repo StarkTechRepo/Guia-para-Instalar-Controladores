@@ -1,7 +1,5 @@
 # Guía para Instalar Controladores de Forma Correcta y Segura
 
-![Controladores](imagen_controladores.jpg)
-
 `¡Bienvenidos al mundo de los controladores sin complicaciones! 🪄 Este repositorio es como tu asistente personal para instalar controladores. ¿Quieres que todo suceda automáticamente? ¡Este es el lugar perfecto! `
 
 `🪄 Esta herramienta es especialmente ideal para aquellos que quieren que todo se haga sin mover un dedo. `
@@ -114,6 +112,12 @@ Recuerda que es crucial realizar primero la instalación desde el sitio web del 
 Si prefieres una solución más sencilla y automatizada, te recomendamos utilizar la herramienta [DriverEasy](https://www.drivereasy.com/). DriverEasy puede escanear, descargar e instalar automáticamente los controladores necesarios para tu sistema. Sin embargo, ten en cuenta que, aunque es una opción conveniente, no garantiza la total seguridad y podría generar problemas en algunos casos.
 
 🔒 Esta herramienta es especialmente recomendada para usuarios que desean una solución rápida y no tienen experiencia en la instalación manual de controladores. Recuerda que es importante siempre respaldar tus datos antes de realizar cambios en el sistema.
+
+## Double Driver
+
+**Descripción:** Double Driver es una utilidad de Windows diseñada para ayudarte a respaldar, guardar y restaurar los controladores de dispositivo de tu sistema. Con esta herramienta, puedes hacer copias de seguridad de los controladores instalados en tu PC y restaurarlos en caso de una reinstalación del sistema operativo o un cambio de hardware. Esto es especialmente útil para garantizar que tus dispositivos funcionen correctamente después de una actualización del sistema o una instalación limpia de Windows. Double Driver simplifica el proceso de administración de controladores y te permite mantener tu sistema actualizado y en funcionamiento de manera eficiente.
+
+**Enlace:** [Descargar Double Driver](http://www.boozet.org/dd.htm)
 
 ## Lista de Algunos Fabricantes Comunes
 
