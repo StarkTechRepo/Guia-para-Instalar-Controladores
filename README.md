@@ -6,6 +6,21 @@
 
 `Explora, instala y relájate. ¡La magia de los controladores está a solo un clic de distancia! 🚀`
 
+# Índice
+1. [¿Cómo Saber Si Tengo Controladores Desactualizados o Faltantes?](#cómo-saber-si-tengo-controladores-desactualizados-o-faltantes)
+2. [¿Cómo Obtener el ID de Hardware de un Dispositivo en Windows?](#cómo-obtener-el-id-de-hardware-de-un-dispositivo-en-windows)
+3. [¿Cómo Colocar el ID de Hardware en la Página de Descarga de Controladores?](#cómo-colocar-el-id-de-hardware-en-la-página-de-descarga-de-controladores)
+4. [¿Cómo Descargar, Descomprimir?](#cómo-descargar-descomprimir)
+5. [¿Cómo Instalar Controladores Utilizando el Asistente de Actualización de Hardware de Windows?](#cómo-instalar-controladores-utilizando-el-asistente-de-actualización-de-hardware-de-windows)
+6. [¿Cómo Obtener el Modelo de la Placa Base con CPU-Z?](#cómo-obtener-el-modelo-de-la-placa-base-con-cpu-z)
+7. [Otra Forma de Instalar Controladores Correctamente](#otra-forma-de-instalar-controladores-correctamente)
+8. [Importante](#importante)
+9. [Automatización de la Instalación de Controladores con el Asistente de Actualización de Hardware de Windows](#automatización-de-la-instalación-de-controladores-con-el-asistente-de-actualización-de-hardware-de-windows)
+10. [Recomendación de Herramienta](#recomendación-de-herramienta)
+11. [Double Driver](#double-driver)
+12. [Lista de Algunos Fabricantes Comunes](#lista-de-algunos-fabricantes-comunes)
+13. [Licencia](#licencia)
+
 ## ¿Cómo Saber Si Tengo Controladores Desactualizados o Faltantes?
 
 Asegurarte de tener controladores actualizados es esencial para mantener un rendimiento óptimo de tu sistema. Aquí te mostramos cómo identificar si tienes controladores desactualizados o faltantes:
