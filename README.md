@@ -150,4 +150,4 @@ Este proyecto está bajo la licencia [Creative Commons Attribution 4.0 Internati
 Si tienes alguna pregunta o necesitas ayuda para encontrar un controlador específico, no dudes en preguntar.
 
 ### Nota importante
-Se recomienda encarecidamente hacer una copia de seguridad de los datos importantes antes de continuar. El autor no se hace responsable de ningún daño o problema causado por el uso de estos comandos.
+Se recomienda encarecidamente hacer una copia de seguridad de los datos importantes antes de continuar. El autor no se hace responsable de ningún daño o problema causado por el mal uso de estas tecnicas.
