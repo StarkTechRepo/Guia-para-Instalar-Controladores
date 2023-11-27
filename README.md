@@ -17,7 +17,7 @@
 
 ---
 
-## ¿Cómo Saber Si Tengo Controladores Desactualizados o Faltantes?
+# ¿Cómo Saber Si Tengo Controladores Desactualizados o Faltantes?
 
 Asegurarte de tener controladores actualizados es esencial para mantener un rendimiento óptimo de tu sistema. Aquí te mostramos cómo identificar si tienes controladores desactualizados o faltantes:
 
@@ -29,7 +29,7 @@ Asegurarte de tener controladores actualizados es esencial para mantener un rend
 
 ---
 
-## ¿Cómo Obtener el ID de Hardware de un Dispositivo en Windows?
+# ¿Cómo Obtener el ID de Hardware de un Dispositivo en Windows?
 
 **Paso 1:** Abrir el Administrador de Dispositivos
 
@@ -53,7 +53,7 @@ Asegurarte de tener controladores actualizados es esencial para mantener un rend
 
 ---
 
-## ¿Cómo Colocar el ID de Hardware en la Página de Descarga de Controladores?
+# ¿Cómo Colocar el ID de Hardware en la Página de Descarga de Controladores?
 
 1. Abre tu navegador web y visita [https://driverpack.io/es/catalog](https://driverpack.io/es/catalog).
 2. En la barra de búsqueda del sitio web, pega el ID de hardware copiado  (por ejemplo: "IDHardware").
@@ -61,14 +61,14 @@ Asegurarte de tener controladores actualizados es esencial para mantener un rend
 
 ---
 
-## ¿Cómo Descargar, Descomprimir?
+# ¿Cómo Descargar, Descomprimir?
 
 1. En la página de [https://driverpack.io/es/catalog](https://driverpack.io/es/catalog)., busca y descarga los controladores necesarios para tu sistema operativo.
 2. Navega hasta la ubicación donde descargaste el archivo ZIP y descomprímelo. Puedes hacer clic derecho en el archivo ZIP y seleccionar "Extraer aquí" o usar un programa de descompresión como [WinRAR](https://www.win-rar.com/start.html?&L=0) o [7-Zip](https://www.7-zip.org/).
 
 ---
 
-## ¿Cómo Instalar Controladores Utilizando el Asistente de Actualización de Hardware de Windows?
+# ¿Cómo Instalar Controladores Utilizando el Asistente de Actualización de Hardware de Windows?
 
 1. Presiona Win + X y selecciona "Administrador de Dispositivos".
 2. Encuentra el dispositivo para el cual deseas instalar el controlador. Debe estar etiquetado con un triángulo amarillo (indicando que no tiene un controlador instalado).
@@ -80,7 +80,7 @@ Asegurarte de tener controladores actualizados es esencial para mantener un rend
 
 ---
 
-## ¿Cómo Obtener el Modelo de la Placa Base con CPU-Z?
+# ¿Cómo Obtener el Modelo de la Placa Base con CPU-Z?
 
 1. Descarga e instala CPU-Z desde [https://www.cpuid.com/softwares/cpu-z.html](https://www.cpuid.com/softwares/cpu-z.html).
 2. Abre CPU-Z y ve a la pestaña "Mainboard" (Placa base).
@@ -90,7 +90,7 @@ Luego, utiliza el modelo anotado y agrégalo al buscador de tu elección junto c
 
 ---
 
-## Otra Forma de Instalar Controladores Correctamente
+# Otra Forma de Instalar Controladores Correctamente
 
 Una alternativa adicional para instalar controladores de manera segura es seguir estos pasos:
 
@@ -103,7 +103,7 @@ Recuerda que es crucial realizar primero la instalación desde el sitio web del 
 
 ---
 
-## Importante
+# Importante
 
 **No descargues ni actualices automáticamente controladores utilizando herramientas de terceros.** Las bases de datos de estas herramientas no siempre están actualizadas y pueden instalar controladores incorrectos que afectan negativamente al rendimiento y estabilidad de tu PC. Es preferible buscar la opción para descargar el archivo ZIP del controlador directamente desde el sitio web del fabricante, donde encontrarás las versiones más recientes y compatibles con tu hardware y sistema operativo.
 
@@ -114,7 +114,7 @@ Recuerda que es crucial realizar primero la instalación desde el sitio web del 
 
 ---
 
-## Recomendación de Herramienta: 
+# Recomendación de Herramienta: 
 `🪄 Esta herramienta es especialmente ideal para los que quieren las cosas hechas sin tener que mover un dedo. `
 
 Si prefieres una solución más sencilla y automatizada, te recomendamos utilizar la herramienta [DriverEasy](https://www.drivereasy.com/). DriverEasy puede escanear, descargar e instalar automáticamente los controladores necesarios para tu sistema. Sin embargo, ten en cuenta que, aunque es una opción conveniente, no garantiza la total seguridad y podría generar problemas en algunos casos.
@@ -123,7 +123,7 @@ Si prefieres una solución más sencilla y automatizada, te recomendamos utiliza
 
 ---
 
-## Double Driver
+# Double Driver
 
 **Descripción:** Double Driver es una utilidad de Windows diseñada para ayudarte a respaldar, guardar y restaurar los controladores de dispositivo de tu sistema. Con esta herramienta, puedes hacer copias de seguridad de los controladores instalados en tu PC y restaurarlos en caso de una reinstalación del sistema operativo o un cambio de hardware. Esto es especialmente útil para garantizar que tus dispositivos funcionen correctamente después de una actualización del sistema o una instalación limpia de Windows. Double Driver simplifica el proceso de administración de controladores y te permite mantener tu sistema actualizado y en funcionamiento de manera eficiente.
 
@@ -131,7 +131,7 @@ Si prefieres una solución más sencilla y automatizada, te recomendamos utiliza
 
 ---
 
-## Lista de Algunos Fabricantes Comunes
+# Lista de Algunos Fabricantes Comunes
 
 1. **Controladores de AMD**: [Descargar controladores de AMD](https://www.amd.com/es/support)
 
@@ -157,9 +157,9 @@ Si prefieres una solución más sencilla y automatizada, te recomendamos utiliza
 
 ---
 
-## Licencia
+# Licencia
 
 Este proyecto está bajo la licencia [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). Puedes compartir, adaptar y utilizar estos archivos siempre que des el crédito correspondiente al autor original.
 
-### Nota importante
+# Nota importante
 Se recomienda encarecidamente hacer una copia de seguridad de los datos importantes antes de continuar. El autor no se hace responsable de ningún daño o problema causado por el mal uso de estas tecnicas.
