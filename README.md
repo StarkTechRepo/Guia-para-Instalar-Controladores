@@ -34,6 +34,9 @@ Asegurarte de tener controladores actualizados es esencial para mantener un rend
 
 - Presiona las teclas Win + X en tu teclado o haz clic derecho en el botón "Inicio" en la barra de tareas.
 - Selecciona "Administrador de Dispositivos" en el menú desplegable.
+```
+devmgmt.msc
+```
 
 **Paso 2:** Identificar el Dispositivo
 
